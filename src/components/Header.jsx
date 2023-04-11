@@ -4,7 +4,7 @@ import "../styles/Header.css";
 export default function Header() {
   return (
     <header>
-      <img src="../public/images/portrait.jpg" />
+      <img src="../images/portrait.jpg" />
       <div className="container">
         <h2>Nelson Baguma</h2>
         <p>FrontEnd Developer</p>
