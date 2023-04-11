@@ -1,0 +1,15 @@
+main {
+  padding: 0 2em;
+}
+
+main * {
+  margin: 0;
+}
+
+main h3 {
+  margin-top: 1.9em;
+}
+
+main p {
+  font-weight: lighter;
+}

@@ -1,0 +1,10 @@
+footer {
+  margin-top: 2em;
+  background-color: #161619;
+  padding: 0.6em;
+  font-size: 2em;
+  gap: 50px;
+}
+footer a {
+  color: #fff;
+}

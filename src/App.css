@@ -1,0 +1,12 @@
+.app {
+  width: 40vw;
+  margin: 0 auto;
+  background-color: #1a1b21;
+  color: #fff;
+}
+
+@media (max-width: 1025px) {
+  .app {
+    width: 100%;
+  }
+}
